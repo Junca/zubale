@@ -1,6 +1,0 @@
-module Pods_zubale_zubaleTests {
-  umbrella header "Pods-zubale-zubaleTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
